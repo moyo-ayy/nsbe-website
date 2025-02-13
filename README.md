@@ -7,6 +7,7 @@ This project is a simple, responsive website built with HTML and CSS. The homepa
 To set up the project locally, follow these steps:
 
 sh
+```
 # Clone the repository
 git clone https://github.com/moyo-ayy/nsbe-website.git
 
@@ -15,3 +16,4 @@ cd nsbe-website
 
 # Open the project in a browser
 open index.html  # or manually open the file in your browser
+```
