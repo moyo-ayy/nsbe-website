@@ -388,3 +388,8 @@ nav a:hover, nav a.active {
     text-decoration: none;
     color: #003cef;
 }
+
+.contact-container {
+    text-align: center;
+    padding: 30px;
+}
